@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/async-training-tasks-API/static/css/main.4cb93559.css",
+    "main.js": "/async-training-tasks-API/static/js/main.28f385e5.js",
+    "index.html": "/async-training-tasks-API/index.html",
+    "main.4cb93559.css.map": "/async-training-tasks-API/static/css/main.4cb93559.css.map",
+    "main.28f385e5.js.map": "/async-training-tasks-API/static/js/main.28f385e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb93559.css",
+    "static/js/main.28f385e5.js"
+  ]
+}
