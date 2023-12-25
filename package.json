@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vladyslavvagin.github.io/redux-training-tasks/",
+  "homepage": "https://vladyslavvagin.github.io/async-training-tasks-API/",
   "dependencies": {
     "@redux-devtools/extension": "^3.3.0",
     "@reduxjs/toolkit": "^2.0.1",
