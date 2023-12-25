@@ -4,8 +4,8 @@ import { TaskForm } from 'components/TaskForm/TaskForm';
 import { TaskList } from 'components/TaskList/TaskList';
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { fetchTasks } from "redux/operations";
-import { selectError, selectIsLoading } from 'redux/selectors';
+import { fetchTasks } from "../redux/operations";
+import { selectError, selectIsLoading } from '../redux/selectors';
 
 export const App = () => {
   const dispatch = useDispatch();
